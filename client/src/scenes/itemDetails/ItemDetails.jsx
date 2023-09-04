@@ -1,5 +1,6 @@
-const ItemChekout = () => {
-    return <div>ItemChekout</div>;
+
+const ItemDetails = () => {
+  return <div>ItemDetails</div>
 }
 
-export defaut ItemChekout;
+export default ItemDetails;
